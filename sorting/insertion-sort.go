@@ -9,7 +9,7 @@ func InsertionSort(arr []int) []int {
 		key := arr[j]
 		i := j - 1
 
-		for i > -1 && key > arr[i] {
+		for i > -1 && key < arr[i] {
 			arr[i+1] = arr[i]
 			i = i - 1
 		}
