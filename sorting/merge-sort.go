@@ -4,7 +4,7 @@ import (
 	"math"
 )
 
-// Merge function merge two sorted part of an array and merge them
+// Merge function merge two sorted part of an array and merge them in a sorted array
 func Merge(arr []int) []int {
 	var leftArr, rigthArr []int
 	mid := len(arr) / 2
