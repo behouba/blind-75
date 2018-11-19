@@ -3,13 +3,13 @@ package main
 import (
 	"fmt"
 
-	"./sorting"
+	ps "./problems"
+	_ "./sorting"
 )
 
 func main() {
-	arr := []int{13, 19, 9, 5, 12, 8, 7, 4, 21, 2, 6, 11, 23}
 
-	// fmt.Println("quick sort output arr = ", sorting.QuickSort(arr, 0, len(arr)-1))
-	// fmt.Println("insertion sort output arr = ", sorting.InsertionSort(arr))
-	fmt.Println(sorting.MergeSort(arr))
+	arr := []int{2, 5, 6, 2, 34, 12, 34}
+	fmt.Println(ps.CheckAddUp(arr, 40))
+
 }
