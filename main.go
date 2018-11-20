@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	arr := []int{2, 5, 6, 2, 34, 12, 34}
-	fmt.Println(ps.CheckAddUp(arr, 40))
+	arr := []int{1, 2, 3, 4, 5}
+	fmt.Println(ps.Solution2(arr))
 
 }
