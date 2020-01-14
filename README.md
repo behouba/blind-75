@@ -4,10 +4,10 @@ Personal repository to learn and implement algorightms and data structures.
 Implementations in C++, Rust, Go, Javascript and python.
 
 ## curriculum (Source: CRACKING the CODING INTERVIEW by GAYLE LAAKMANN McDowELL )
-
-+------------------------------------------------------------------------------+
+<pre>
++==========================+========================+==========================+
 | Data structures          | Algorithms             | Concepts                 |
-+--------------------------+------------------------+--------------------------+
++==========================+========================+==========================+
 | Linked Lists             | Breadth-First Search   | Bit Manipulation         |
 +--------------------------+------------------------+--------------------------+
 | Trees, Tries, & Graphs   | Depth-First Search     | Memory (Stack vs. Heap)  |
@@ -20,3 +20,4 @@ Implementations in C++, Rust, Go, Javascript and python.
 +--------------------------+------------------------+--------------------------+
 | Hash Tables              |                        |                          |
 +--------------------------+------------------------+--------------------------+
+</pre>
