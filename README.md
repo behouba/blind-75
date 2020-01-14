@@ -1,6 +1,22 @@
 # Algorithms And Data Structures
-Personal repository for my solutions for various algorithms and data structures
-problems found on website like: leetcode, hackerrank etc...
+Personal repository to learn and implement algorightms and data structures.
 
-Implementations mainly in C++, Go, Javascript and python.
+Implementations in C++, Rust, Go, Javascript and python.
 
+## curriculum (Source: CRACKING the CODING INTERVIEW by GAYLE LAAKMANN McDowELL )
+
++------------------------------------------------------------------------------+
+| Data structures          | Algorithms             | Concepts                 |
++--------------------------+------------------------+--------------------------+
+| Linked Lists             | Breadth-First Search   | Bit Manipulation         |
++--------------------------+------------------------+--------------------------+
+| Trees, Tries, & Graphs   | Depth-First Search     | Memory (Stack vs. Heap)  |
++--------------------------+------------------------+--------------------------+
+| Stacks & Queues          | Binary Search          | Recursion                |
++--------------------------+------------------------+--------------------------+
+| Heaps                    | Merge Sort             | Dynamic Programming      |
++--------------------------+------------------------+--------------------------+
+| Vectors I Arraylists     | Quick Sort             | Big O Time & Space       |
++--------------------------+------------------------+--------------------------+
+| Hash Tables              |                        |                          |
++--------------------------+------------------------+--------------------------+
