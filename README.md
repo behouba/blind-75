@@ -3,7 +3,7 @@ Personal repository to learn and implement algorightms and data structures.
 
 Implementations in C++, Rust, Go, Javascript and python.
 
-## curriculum (Source: CRACKING the CODING INTERVIEW by GAYLE LAAKMANN McDowELL )
+## curriculum
 <pre>
 +==========================+========================+==========================+
 | Data structures          | Algorithms             | Concepts                 |
@@ -21,3 +21,5 @@ Implementations in C++, Rust, Go, Javascript and python.
 | Hash Tables              |                        |                          |
 +--------------------------+------------------------+--------------------------+
 </pre>
+Table source: CRACKING the CODING INTERVIEW by GAYLE LAAKMANN McDowELL
+
